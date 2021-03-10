@@ -1,0 +1,144 @@
+* {
+    margin: 0px;
+}
+
+body {
+    position: relative;
+}
+
+header {
+    border: 10px solid rgba(128, 128, 128, 0.1);
+    width: 1495px;
+    height: 680px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#yellow {
+    background-color: rgba(255, 255, 0, 0.3);
+    width: 1500px;
+    height: 140px;
+    position: absolute;
+}
+
+p {
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+#li1 {
+    display: inline;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+
+#li2 {
+    display: inline;
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
+
+#li3 {
+    display: inline;
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    left: 1000px;
+}
+
+#li4 {
+    display: inline;
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    right: 30px;
+}
+
+#blue {
+    background-color: rgba(0, 0, 255, 0.3);
+    width: 150px;
+    height: 510px;
+    position: absolute;
+    bottom: 0px;
+}
+
+#orange {
+    background-color: rgba(255, 165, 0, 0.3);
+    width: 1310px;
+    height: 150px;
+    position: absolute;
+    bottom: 360px;
+    right: 0px;
+}
+
+#red {
+    background-color: rgba(255, 0, 0, 0.3);
+    width: 1310px;
+    height: 150px;
+    position: absolute;
+    bottom: 180px;
+    right: 0px;
+}
+
+#d {
+    display: inline;
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+
+#c {
+    display: inline;
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+}
+
+#b {
+    display: inline;
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    left: 800px;
+}
+
+#a {
+    display: inline;
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    right: 30px;
+}
+
+#green {
+    background-color: rgba(0, 255, 0, 0.3);
+    width: 1310px;
+    height: 150px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
